@@ -2,12 +2,11 @@ package org.acme.demo;
 
 import java.io.IOException;
 import java.util.Map;
-import java.util.StringJoiner;
-import java.util.stream.Collectors;
+
+import org.kohsuke.github.GHEventPayload;
 
 import io.quarkiverse.githubapp.ConfigFile;
 import io.quarkiverse.githubapp.event.Issue;
-import org.kohsuke.github.GHEventPayload;
 
 public class NotifyComponentOwner {
     void onIssueLabeled(@Issue.Labeled GHEventPayload.Issue payload,

@@ -1,4 +1,7 @@
-# my-github-app Project
+# Github Automation with Quarkus Demo App
+
+Code showcased during the demo included
+in the talk "Github Automation with Quarkus" by @gsmet and @yrodiere.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 

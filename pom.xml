@@ -36,7 +36,7 @@
     <dependency>
       <groupId>io.quarkiverse.githubapp</groupId>
       <artifactId>quarkus-github-app-command-airline</artifactId>
-      <version>1.8.4</version>
+      <version>1.8.5</version>
     </dependency>
     <dependency>
       <groupId>io.quarkus</groupId>
